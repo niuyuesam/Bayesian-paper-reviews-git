@@ -1,0 +1,23 @@
+Expensive constraints
+http://papers.nips.cc/paper/6785-lookahead-bayesian-optimization-with-inequality-constraints
+
+New algorithm. Function moderately expensive to evaluate
+http://papers.nips.cc/paper/6780-practical-bayesian-optimization-for-model-fitting-with-bayesian-adaptive-direct-search
+
+Exploit function derivative
+http://papers.nips.cc/paper/7111-bayesian-optimization-with-gradients
+
+Each time optimize only a subset of variables
+http://papers.nips.cc/paper/6933-process-constrained-batch-bayesian-optimisation
+
+How to come up with a batch of points in parallel optimization
+http://papers.nips.cc/paper/6307-the-parallel-knowledge-gradient-method-for-batch-bayesian-optimization
+
+Application: How to choose the best kernel in kernel-based learning methods (e.g., SVM)
+http://papers.nips.cc/paper/6466-bayesian-optimization-for-automated-model-selection
+
+Application: probabilistic programs
+http://papers.nips.cc/paper/6421-bayesian-optimization-for-probabilistic-programs
+
+Using neural network rather than GP as surrogate
+http://papers.nips.cc/paper/6117-bayesian-optimization-with-robust-bayesian-neural-networks
